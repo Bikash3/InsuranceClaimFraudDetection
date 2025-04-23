@@ -15,14 +15,14 @@ Global Insure, a leading insurance company, processes thousands of claims annual
 ## Conclusions
 > Random forest model is effective model for fraud detection. Careful preprocessing and feature selection improved model performance. This solution enables early detection of fraud, reducing financial loss and improving operational efficiency.
 
-## Key Insights:
-· Fraudulent claims often exhibit distinct patterns in terms of claim timing, incident severity, and policy details.
-· Behavioural features (e.g., insured relationship, hobbies, claim amount) are used to identify suspicious activity.
-· The most predictive features are incident_severity, insured_relationship, property_damage, incident_city and auto_make
-· Robust against overfitting and capable of handling both numerical and categorical data.
-· Feature importance from the model provided interpretable insights into fraud indicators.
-· Handling missing values, encoding categorical data, and transforming timestamps significantly boosted model performance.
-· Multicollinearity checks and RFECV helped refine the model to include only the most informative features.
+## Key Insights
+* Fraudulent claims often exhibit distinct patterns in terms of claim timing, incident severity, and policy details.
+* Behavioural features (e.g., insured relationship, hobbies, claim amount) are used to identify suspicious activity.
+* The most predictive features are incident_severity, insured_relationship, property_damage, incident_city and auto_make
+* Robust against overfitting and capable of handling both numerical and categorical data.
+* Feature importance from the model provided interpretable insights into fraud indicators.
+* Handling missing values, encoding categorical data, and transforming timestamps significantly boosted model performance.
+* Multicollinearity checks and RFECV helped refine the model to include only the most informative features.
 
 ## Technologies Used
   Python Coding and Visualizations
