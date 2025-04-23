@@ -38,10 +38,10 @@ Give credit here.
 
 
 ## Contact
-Created by 
-      Bikas Sarkar
-      Jyothsna Devi Duggasani
-
+### Created by 
+  * Jyothsna Devi Duggasani
+  * Bikas Sarkar 
+      
 
 
 <!-- Optional -->
