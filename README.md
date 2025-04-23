@@ -1,6 +1,5 @@
 # Insurance Claim Fraud Detection
-> 
-
+> This project aims to detect fraudulent insurance claims using machine learning models, helping insurers reduce financial losses and improve operational efficiency. The process began with thorough data preprocessing and feature engineering to clean the dataset, handle missing values, and create meaningful features that capture fraud patterns. Two models—Logistic Regression and Random Forest—were developed to classify claims as either fraudulent or legitimate. To enhance model performance, hyperparameter tuning and threshold optimization were performed using cross-validation and grid search techniques. The final models were evaluated using metrics such as accuracy, precision, recall, F1-score, and AUC-ROC to ensure robustness and reliability. This end-to-end approach demonstrates how machine learning can be effectively leveraged for fraud detection in the insurance sector.
 
 ## Table of Contents
 * [General Info](#general-information)
